@@ -1,5 +1,10 @@
 <resources>
     <string name="app_name">App Navegação de Telas</string>
     <string name="welcome_message">Seja Bem Vindo ao App com Navegação de Telas</string>
+
     <string name="first_page"> Essa é a Primeira Página :) </string>
+    <string name="go_to_page_2">Ir Para a Segunda Página</string>
+
+    <string name="second_page"> Essa é a Segunda Página :) </string>
+    <string name="go_to_page_1">Ir Para a Primeira Página</string>
 </resources>
